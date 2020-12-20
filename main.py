@@ -5,6 +5,7 @@ Created on Fri Dec  4 17:44:28 2020
 @author: groes
 """
 
+import import_ipynb # if import fails, open command prompt and run the command "pip install import_ipynb"
 import class_definitions as t1
 import random
 import time
